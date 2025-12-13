@@ -12,6 +12,26 @@
 
 <br><br>
 
+<!-- ANIMATED WAVE -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+<br>
+
+<!-- ANIMATED BADGES -->
+<a href="https://github.com/HoussamJardini">
+  <img src="https://img.shields.io/badge/◢-COMPUTER_VISION-00fff5?style=for-the-badge&labelColor=0d1117" />
+</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="30">
+<a href="https://github.com/HoussamJardini">
+  <img src="https://img.shields.io/badge/◢-DEEP_LEARNING-ff00ff?style=for-the-badge&labelColor=0d1117" />
+</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="30">
+<a href="https://github.com/HoussamJardini">
+  <img src="https://img.shields.io/badge/◢-REINFORCEMENT_LEARNING-00ff88?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br><br>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=HoussamJardini&style=for-the-badge&color=00fff5&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/HoussamJardini)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardini-houssam-116b762a7/)
@@ -22,7 +42,8 @@
 
 <br>
 
-##
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
@@ -76,15 +97,17 @@ class HoussamJardini:
 
 <br>
 
-##
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <div align="center">
 
-### ⚡ WHAT I BUILD
+<!-- ANIMATED SECTION HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=400&height=70&lines=%E2%9A%A1+WHAT+I+BUILD+%E2%9A%A1" alt="What I Build" />
 
-<br>
+<br><br>
 
 <table border="0" cellpadding="20" cellspacing="0">
 <tr>
@@ -123,13 +146,15 @@ class HoussamJardini:
 
 <br>
 
-##
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <div align="center">
 
-### 🚀 FEATURED PROJECTS
+<!-- ANIMATED SECTION HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9A%80+FEATURED+PROJECTS+%F0%9F%9A%80" alt="Projects" />
 
 </div>
 
@@ -143,7 +168,7 @@ class HoussamJardini:
 
 **🏆 MOTIONSYNC**
   
-*Boeing Innovation Prize Winner*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=300&height=30&lines=Boeing+Innovation+Prize+Winner" alt="Prize" />
 
 </div>
 
@@ -170,7 +195,7 @@ class HoussamJardini:
 
 **🤖 ARTEKA AI SYSTEM**
   
-*Production Computer Vision*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=300&height=30&lines=98%25+Cost+Reduction" alt="Stats" />
 
 </div>
 
@@ -200,7 +225,7 @@ class HoussamJardini:
 
 **🦾 RL ROBOTIC ARM**
   
-*Emergent Inverse Kinematics*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=300&height=30&lines=Emergent+Inverse+Kinematics" alt="RL" />
 
 </div>
 
@@ -227,7 +252,7 @@ class HoussamJardini:
 
 **💬 DARIJA CHATBOT**
   
-*Low-Resource NLP*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=300&height=30&lines=Low-Resource+NLP" alt="NLP" />
 
 </div>
 
@@ -253,23 +278,34 @@ class HoussamJardini:
 
 <br>
 
-##
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <div align="center">
 
-### 🛠️ TECH ARSENAL
+<!-- ANIMATED SECTION HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=400&height=70&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+ARSENAL+%F0%9F%9B%A0%EF%B8%8F" alt="Tech" />
+
+<br><br>
+
+<!-- ANIMATED TECH ICONS -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch&theme=dark" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch&theme=dark" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="15" width="50%">
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=cs,unity,react,fastapi&theme=dark" />
 
-<br><br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="15" width="50%">
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,arduino,linux&theme=dark" />
 
@@ -277,67 +313,35 @@ class HoussamJardini:
 
 <br>
 
-##
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <div align="center">
 
-### 📊 CONTRIBUTION GRAPH
+<!-- ANIMATED SECTION HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%90%8D+WATCH+THE+SNAKE+EAT+MY+CONTRIBUTIONS+%F0%9F%90%8D" alt="Snake" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HoussamJardini&bg_color=0d1117&color=00fff5&line=00fff5&point=ffffff&area=true&area_color=00fff5&hide_border=true" width="95%" />
+<img src="https://raw.githubusercontent.com/HoussamJardini/HoussamJardini/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 <br>
 
-##
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <div align="center">
 
-### 🐍 WATCH THE SNAKE EAT MY CONTRIBUTIONS
+<!-- ANIMATED SECTION HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=70&lines=%F0%9F%8F%86+TROPHY+CABINET+%F0%9F%8F%86" alt="Trophy" />
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoussamJardini/HoussamJardini/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoussamJardini/HoussamJardini/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HoussamJardini/HoussamJardini/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br>
-
-##
-
-<br>
-
-<div align="center">
-
-### 📈 CODING ACTIVITY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamJardini&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=8b949e&langs_count=6" />
-
-</div>
-
-<br>
-
-##
-
-<br>
-
-<div align="center">
-
-### 🏆 TROPHY CABINET
-
-<br>
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=HoussamJardini&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
 
@@ -345,40 +349,75 @@ class HoussamJardini:
 
 <br>
 
-##
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20build%20AI%20that%20ships%2C%20not%20just%20notebooks%20that%20demo.&author=Houssam%20Jardini" />
-
-</div>
-
-<br>
-
-##
-
-<br>
-
-<div align="center">
-
-### 🤝 LET'S CONNECT
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardini-houssam-116b762a7/)
-&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jardini.houssam@uit.ac.ma)
-&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoussamJardini)
+<!-- ANIMATED SECTION HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&height=70&lines=%F0%9F%93%88+CODING+ACTIVITY+%F0%9F%93%88" alt="Activity" />
 
 <br><br>
 
-**Open for AI/ML opportunities and collaborations**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamJardini&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=8b949e&langs_count=6" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:1a1a2e&height=120&section=footer" width="100%"/>
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+<!-- ANIMATED QUOTE -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=4000&pause=2000&color=00FFF5&center=true&vCenter=true&width=700&height=80&lines=%22+I+build+AI+that+ships%2C+not+notebooks+that+demo.+%22;%22+From+pixels+to+predictions%2C+from+models+to+production.+%22;%22+The+best+code+is+the+code+that+solves+real+problems.+%22" alt="Quote" />
+
+</div>
+
+<br>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+<!-- ANIMATED SECTION HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=400&height=70&lines=%F0%9F%A4%9D+LET'S+CONNECT+%F0%9F%A4%9D" alt="Connect" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/jardini-houssam-116b762a7/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:jardini.houssam@uit.ac.ma">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/HoussamJardini">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&height=40&lines=Open+for+AI%2FML+opportunities+%26+collaborations" alt="Status" />
+
+</div>
+
+<br>
+
+<!-- ANIMATED WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:1a1a2e&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=400&height=30&lines=Made+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95+by+Houssam" alt="Footer" />
+
+</div>
