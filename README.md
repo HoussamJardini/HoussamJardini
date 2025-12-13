@@ -356,24 +356,6 @@ class HoussamJardini:
 
 <div align="center">
 
-<!-- ANIMATED SECTION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&height=70&lines=%F0%9F%93%88+CODING+ACTIVITY+%F0%9F%93%88" alt="Activity" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamJardini&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=8b949e&langs_count=6" />
-
-</div>
-
-<br>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
 <!-- ANIMATED QUOTE -->
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=4000&pause=2000&color=00FFF5&center=true&vCenter=true&width=700&height=80&lines=%22+I+build+AI+that+ships%2C+not+notebooks+that+demo.+%22;%22+From+pixels+to+predictions%2C+from+models+to+production.+%22;%22+The+best+code+is+the+code+that+solves+real+problems.+%22" alt="Quote" />
 
