@@ -104,8 +104,10 @@ class HoussamJardini:
 
 <div align="center">
 
-<!-- ANIMATED SECTION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=400&height=70&lines=%E2%9A%A1+WHAT+I+BUILD+%E2%9A%A1" alt="What I Build" />
+<!-- WHAT I BUILD - FIXED HEADER -->
+<h2>⚡ WHAT I BUILD ⚡</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=400&height=50&lines=AI+%2F+ML+%2F+Computer+Vision" alt="What I Build" />
 
 <br><br>
 
@@ -153,8 +155,10 @@ class HoussamJardini:
 
 <div align="center">
 
-<!-- ANIMATED SECTION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%9A%80+FEATURED+PROJECTS+%F0%9F%9A%80" alt="Projects" />
+<!-- FEATURED PROJECTS - FIXED HEADER -->
+<h2>🚀 FEATURED PROJECTS 🚀</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=50&lines=Production-Ready+AI+Solutions" alt="Projects" />
 
 </div>
 
@@ -285,8 +289,10 @@ class HoussamJardini:
 
 <div align="center">
 
-<!-- ANIMATED SECTION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=400&height=70&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+ARSENAL+%F0%9F%9B%A0%EF%B8%8F" alt="Tech" />
+<!-- TECH ARSENAL - FIXED HEADER -->
+<h2>🛠️ TECH ARSENAL 🛠️</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=400&height=50&lines=Tools+%26+Technologies" alt="Tech" />
 
 <br><br>
 
@@ -320,8 +326,10 @@ class HoussamJardini:
 
 <div align="center">
 
-<!-- ANIMATED SECTION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%90%8D+WATCH+THE+SNAKE+EAT+MY+CONTRIBUTIONS+%F0%9F%90%8D" alt="Snake" />
+<!-- SNAKE - FIXED HEADER -->
+<h2>🐍 WATCH THE SNAKE EAT MY CONTRIBUTIONS 🐍</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&height=50&lines=GitHub+Contribution+Graph" alt="Snake" />
 
 <br><br>
 
@@ -338,12 +346,19 @@ class HoussamJardini:
 
 <div align="center">
 
-<!-- ANIMATED SECTION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=70&lines=%F0%9F%8F%86+TROPHY+CABINET+%F0%9F%8F%86" alt="Trophy" />
+<!-- TROPHY CABINET - FIXED HEADER & IMAGE -->
+<h2>🏆 TROPHY CABINET 🏆</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=50&lines=GitHub+Achievements" alt="Trophy" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HoussamJardini&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
+<!-- FIXED TROPHY IMAGE - Using alternative endpoint with better reliability -->
+<img src="https://github-profile-trophy.vercel.app/?username=HoussamJardini&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Stars,Commits,Repositories,Followers" alt="GitHub Trophies" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HoussamJardini&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=PullRequest,Issues,Reviews,Experience" alt="GitHub Trophies" />
 
 </div>
 
@@ -370,8 +385,10 @@ class HoussamJardini:
 
 <div align="center">
 
-<!-- ANIMATED SECTION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=400&height=70&lines=%F0%9F%A4%9D+LET'S+CONNECT+%F0%9F%A4%9D" alt="Connect" />
+<!-- CONNECT - FIXED HEADER -->
+<h2>🤝 LET'S CONNECT 🤝</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=400&height=50&lines=Get+In+Touch" alt="Connect" />
 
 <br><br>
 
