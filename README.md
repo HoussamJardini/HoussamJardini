@@ -208,8 +208,7 @@ class HoussamJardini:
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=HoussamJardini&hide_border=true&background=0d0d0d&stroke=1a1a2e&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=444444&type=png" height="170"/>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=HoussamJardini&hide_border=true&background=0d0d0d&stroke=1a1a2e&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=444444" height="170"/>
 <br><br>
 
 <img src="https://ghchart.rshah.org/7C3AED/HoussamJardini" alt="Contribution Chart" width="700"/>
